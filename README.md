@@ -19,22 +19,19 @@ Training_Data
 
 HOMO_Model:
 -----------
-     scaler_x.save: scaling of features
-     scaler_y_save: scaling of the target property (HOMO values)
-     final_data_homo.csv: SMILES with corresponding features and the
-     HOMO energy predictions
-	 best_xgboost_model.joblib: Xgboost model for HOMO energy predictions
+- scaler_x.save: scaling of features     
+- scaler_y_save: scaling of the target property (HOMO values)      
+- final_data_homo.csv: SMILES with corresponding features and the  HOMO energy predictions     
+- best_xgboost_model.joblib: Xgboost model for HOMO energy predictions
 	
 	
 LUMO_Model
-	scaler_x.save: scaling of features
-     scaler_y_save: scaling of the target property (HOMO values)
-     final_data_homo.csv: SMILES with corresponding features and the
-     LUMO energy predictions
-	 best_xgboost_model.joblib: Xgboost model for LUMO energy predictions
+----------
+- scaler_x.save: scaling of features  
+- scaler_y_save: scaling of the target property (HOMO values)
+- final_data_homo.csv: SMILES with corresponding features and the LUMO energy predictions
+- best_xgboost_model.joblib: Xgboost model for LUMO energy predictions
 	
-
-
 External_Data_Set
 ---------------
 
