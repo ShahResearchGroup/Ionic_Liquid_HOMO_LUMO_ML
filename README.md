@@ -14,8 +14,7 @@ The repository contains the following folders:
 
 Training_Data
 ------------
-    train_data_collection.csv: SMILES along with HOMO and LUMO
-	energies in eV from DFT calculations
+- train_data_collection.csv: SMILES along with HOMO and LUMO energies in eV from DFT calculations
 
 HOMO_Model:
 -----------
