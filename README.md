@@ -8,7 +8,10 @@ Authors: Pratik Dhakal, Wyatt Gassaway, Jindal K. Shah
 
 Correpsonding author: jindal.shah@okstate.edu
 
-doi: 10.1063/5.0155775
+(https://doi.org/10.1063/5.0155775)
+
+
+
 
 The repository contains the following folders:
 
